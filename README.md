@@ -6,7 +6,7 @@
 
 Я тестировщик. Основной домен - тестирование веб-приложений (front + back).
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ospvdm/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:osipoooov@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@ospvdm-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ospvdm/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:osipoooov@gmail.com)
 
 ---
 
