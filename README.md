@@ -78,7 +78,7 @@
 
 ---
 
-## Testing Artefacts (Тестовые артефакты)
+## Testing Artefacts
 
 1. **[git_bash](https://github.com/ospvdm/git_bash)**  
    Объем тестирования: Тестирование команд Bash.  
