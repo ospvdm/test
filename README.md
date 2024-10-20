@@ -80,28 +80,28 @@
 
 ## Testing Artefacts
 
-1. **[git_bash](https://github.com/ospvdm/git_bash)**  
+1. **[Работа с git и bash](https://github.com/ospvdm/git_bash)**  
    Объем тестирования: Тестирование команд Bash.  
    Инструменты: Git Bash.
 
-2. **[mobile](https://github.com/ospvdm/mobile)**  
+2. **[Тестирование мобильных приложений](https://github.com/ospvdm/mobile)**  
    Объем тестирования: Тестирование мобильного приложения на Android. Включены тест-кейсы, баг-репорты и результаты тестирования производительности.  
    Инструменты: Android Studio.
 
-3. **[web](https://github.com/ospvdm/web)**  
+3. **[Тестирование веб-приложений](https://github.com/ospvdm/web)**  
    Объем тестирования: Функциональное тестирование веб-приложений. Включены чек-листы, тест-кейсы, баг-репорты и тестирование интерфейса пользователя.  
    Инструменты: Google Chrome, QASE, youtrack
 
-4. **[database](https://github.com/ospvdm/database)**  
+4. **[Работа с базами данных](https://github.com/ospvdm/database)**  
    Объем тестирования: Тестирование базы данных. Включены SQL-запросы для проверки целостности данных и производительности базы данных.  
    Инструменты: MySQL, MongoDB
 
-5. **[api](https://github.com/ospvdm/api)**  
+5. **[Тестирование API](https://github.com/ospvdm/api)**  
    Объем тестирования: API тестирование с использованием Postman. Включены коллекции запросов и отчеты о результатах.  
    Инструменты: Postman, SOAP.
 
 
-8. **[design](https://github.com/ospvdm/design)**  
+8. **[Техники тест-дизайна](https://github.com/ospvdm/design)**  
    Объем тестирования: проектирование тестов и тест-дизайнов, эквивалентное разбиение и анализ граничных значений. Попарное тестирование 
    Инструменты: Pairwise, Google Docs
 
