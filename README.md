@@ -10,6 +10,9 @@
 
 ---
 
+[Ознакомьтесь с моим резюме](https://github.com/ospvdm/MY_CV/blob/main/%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20QA%20Engineer.pdf)
+
+---
 ### 🤝 Социальные сети:
 
   <div id="badges">
